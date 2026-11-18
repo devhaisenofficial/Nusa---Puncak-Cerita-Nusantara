@@ -2,6 +2,14 @@
 
 > *Setiap puncak memiliki cerita, setiap gunung menyimpan makna.*
 
+---
+TIM SIX SEVEN
+ANGGOTA : 
+1. IDRIS MARZUKI
+2. HUSAIN MULYANSYAH
+3. A FAHRI PUTRA PRATAMA
+---
+
 ## Deskripsi Website
 
 **NUSA (Puncak Cerita Nusantara)** merupakan platform ensiklopedia digital yang menyajikan informasi dan pengetahuan mengenai pegunungan, gunung, dan bukit yang tersebar di seluruh wilayah Indonesia.
