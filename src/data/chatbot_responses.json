@@ -1,0 +1,273 @@
+{
+  "welcome": "Halo! Saya teman jelajah NUSA. Saya siap membantu Anda menelusuri ratusan data gunung, bukit, tips konservasi, perlengkapan, dan panduan pendakian di Indonesia.",
+  "intents": [
+    {
+      "id": "semeru",
+      "keywords": ["semeru", "mahameru"],
+      "response": "Gunung Semeru berada di Jawa Timur dengan ketinggian 3.676 meter. Koordinat yang tercantum di atlas: -8.1083, 112.9225. Selalu periksa informasi PVMBG dan TN Bromo Tengger Semeru.",
+      "suggestions": ["Tampilkan detail Semeru", "Tips menjaga alam"]
+    },
+    {
+      "id": "rinjani",
+      "keywords": ["rinjani", "segara anak"],
+      "response": "Gunung Rinjani berada di Lombok, NTB, dengan ketinggian 3.726 mdpl. Bentang kalderanya mencakup Segara Anak. Periksa kuota dan status aktivitas resmi.",
+      "suggestions": ["Tampilkan detail Rinjani", "Tips menjaga alam"]
+    },
+    {
+      "id": "kerinci",
+      "keywords": ["kerinci"],
+      "response": "Gunung Kerinci di perbatasan Jambi dan Sumatra Barat memiliki ketinggian 3.805 mdpl, merupakan puncak tertinggi di Sumatra.",
+      "suggestions": ["Tampilkan detail Kerinci", "Cari gunung lain"]
+    },
+    {
+      "id": "puncak_jaya",
+      "keywords": ["puncak jaya", "carstensz", "cartenz", "puncak soekarno"],
+      "response": "Puncak Jaya di Papua Tengah merupakan puncak tertinggi di Indonesia (4.884 mdpl) dengan bentang salju abadi yang menuntut teknis khusus.",
+      "suggestions": ["Tampilkan detail Puncak Jaya", "Cari gunung lain"]
+    },
+    {
+      "id": "merbabu",
+      "keywords": ["merbabu"],
+      "response": "Gunung Merbabu terletak di Jawa Tengah (3.142 mdpl). Terkenal dengan sabana luas dan jalur populer seperti Selo, Suwanting, dan Wekas.",
+      "suggestions": ["Tampilkan detail Merbabu", "Cari gunung lain"]
+    },
+    {
+      "id": "prau",
+      "keywords": ["prau", "dieng"],
+      "response": "Gunung Prau di Dataran Tinggi Dieng (2.565 mdpl) sangat favorit bagi pendaki pemula dengan pemandangan matahari terbit yang ikonik.",
+      "suggestions": ["Pendakian ramah pemula", "Tips menjaga alam"]
+    },
+    {
+      "id": "slamet",
+      "keywords": ["slamet"],
+      "response": "Gunung Slamet adalah gunung tertinggi di Jawa Tengah (3.428 mdpl), membentang di 5 kabupaten dengan karakter jalur menantang dan berpasir.",
+      "suggestions": ["Tampilkan detail Slamet", "Tips menjaga alam"]
+    },
+    {
+      "id": "ijen",
+      "keywords": ["ijen", "kawah ijen", "blue fire"],
+      "response": "Kawah Ijen di perbatasan Banyuwangi-Bondowoso (2.799 mdpl) terkenal dengan fenomena api biru (blue fire) dan danau kawah asam pirus.",
+      "suggestions": ["Tampilkan detail Ijen", "Cari gunung lain"]
+    },
+    {
+      "id": "latimojong",
+      "keywords": ["latimojong", "rantemario"],
+      "response": "Gunung Latimojong di Sulawesi Selatan memiliki Puncak Rantemario setinggi 3.478 mdpl, bagian dari Seven Summits Indonesia.",
+      "suggestions": ["Tampilkan detail Latimojong", "Cari gunung lain"]
+    },
+    {
+      "id": "tambora",
+      "keywords": ["tambora"],
+      "response": "Gunung Tambora di Pulau Sumbawa, NTB (2.751 mdpl), memiliki kaldera masif sisa letusan dahsyat tahun 1815.",
+      "suggestions": ["Tampilkan detail Tambora", "Tips menjaga alam"]
+    },
+    {
+      "id": "bromo",
+      "keywords": ["bromo", "tengger"],
+      "response": "Gunung Bromo di Jawa Timur (2.329 mdpl) adalah gunung berapi aktif di dalam kaldera Tengger yang terkenal dengan lautan pasirnya.",
+      "suggestions": ["Tampilkan detail Bromo", "Cari gunung lain"]
+    },
+    {
+      "id": "agung",
+      "keywords": ["agung", "gunung agung"],
+      "response": "Gunung Agung di Bali (3.031 mdpl) adalah gunung tertinggi di pulau tersebut dan dianggap suci oleh masyarakat setempat.",
+      "suggestions": ["Tampilkan detail Agung", "Tips menjaga alam"]
+    },
+    {
+      "id": "batur",
+      "keywords": ["batur", "kintamani"],
+      "response": "Gunung Batur di Kintamani, Bali (1.717 mdpl), populer untuk pendakian singkat menikmati matahari terbit di atas kaldera dan danau.",
+      "suggestions": ["Tampilkan detail Batur", "Pendakian pemula"]
+    },
+    {
+      "id": "sindoro",
+      "keywords": ["sindoro"],
+      "response": "Gunung Sindoro di Jawa Tengah (3.153 mdpl) berdampingan dengan Sumbing, terkenal dengan kawah solfatara dan hamparan edelweis.",
+      "suggestions": ["Tampilkan detail Sindoro", "Cari gunung lain"]
+    },
+    {
+      "id": "sumbing",
+      "keywords": ["sumbing"],
+      "response": "Gunung Sumbing di Jawa Tengah (3.371 mdpl) memiliki jalur pendakian yang cukup terjal dan panorama alam yang sangat megah.",
+      "suggestions": ["Tampilkan detail Sumbing", "Cari gunung lain"]
+    },
+    {
+      "id": "andong",
+      "keywords": ["andong", "gunung andong"],
+      "response": "Gunung Andong di Magelang, Jawa Tengah (1.726 mdpl), adalah destinasi favorit pendaki pemula karena jalurnya singkat dan pemandangannya indah.",
+      "suggestions": ["Pendakian ramah pemula", "Tips menjaga alam"]
+    },
+    {
+      "id": "papandayan",
+      "keywords": ["papandayan"],
+      "response": "Gunung Papandayan di Garut, Jawa Barat (2.665 mdpl), terkenal dengan Hutan Mati dan Kawah Mas yang mudah diakses.",
+      "suggestions": ["Tampilkan detail Papandayan", "Cari gunung lain"]
+    },
+    {
+      "id": "ciremai",
+      "keywords": ["ciremai", "ceremai"],
+      "response": "Gunung Ciremai di Kuningan/Majalengka, Jawa Barat (3.078 mdpl), merupakan titik tertinggi di Jawa Barat.",
+      "suggestions": ["Tampilkan detail Ciremai", "Cari gunung lain"]
+    },
+    {
+      "id": "gede",
+      "keywords": ["gede", "pangrango", "gn gede"],
+      "response": "Taman Nasional Gunung Gede Pangrango di Jawa Barat (2.958 mdpl) menawarkan keindahan Alun-Alun Surya Kencana dengan padang edelweis.",
+      "suggestions": ["Tampilkan detail Gede Pangrango", "Tips menjaga alam"]
+    },
+    {
+      "id": "pangrango",
+      "keywords": ["pangrango"],
+      "response": "Gunung Pangrango (3.019 mdpl) terletak berdampingan dengan Gunung Gede, memiliki lembah Mandalawangi yang legendaris.",
+      "suggestions": ["Tampilkan detail Pangrango", "Cari gunung lain"]
+    },
+    {
+      "id": "bukit_moko",
+      "keywords": ["bukit moko", "moko"],
+      "response": "Bukit Moko di Bandung, Jawa Barat, berada di ketinggian sekitar 1.500 mdpl, terkenal sebagai spot menikmati pemandangan kota dari atas.",
+      "suggestions": ["Buka Jelajah", "Tips menjaga alam"]
+    },
+    {
+      "id": "bukit_kelam",
+      "keywords": ["bukit kelam", "kelam"],
+      "response": "Bukit Kelam di Sintang, Kalimantan Barat, adalah monolit batu raksasa tunggal terbesar di dunia dengan ekosistem unik.",
+      "suggestions": ["Buka Jelajah", "Tips menjaga alam"]
+    },
+    {
+      "id": "dempo",
+      "keywords": ["dempo"],
+      "response": "Gunung Dempo di Pagar Alam, Sumatra Selatan (3.173 mdpl), dikelilingi kebun teh yang luas dan danau kawah vulkanik yang indah.",
+      "suggestions": ["Tampilkan detail Dempo", "Cari gunung lain"]
+    },
+    {
+      "id": "marapi",
+      "keywords": ["marapi sumatra", "gunung marapi"],
+      "response": "Gunung Marapi di Sumatra Barat (2.891 mdpl) adalah salah satu gunung paling aktif di Sumatra dengan jalur pendakian dari Kabu/Buki.",
+      "suggestions": ["Status keamanan", "Cari gunung lain"]
+    },
+    {
+      "id": "singgalang",
+      "keywords": ["singgalang"],
+      "response": "Gunung Singgalang di Sumatra Barat (2.877 mdpl) memiliki Telaga Dewi yang berada di dekat puncaknya.",
+      "suggestions": ["Tampilkan detail Singgalang", "Cari gunung lain"]
+    },
+    {
+      "id": "leuser",
+      "keywords": ["leuser", "gunung leuser"],
+      "response": "Gunung Leuser di Aceh (3.404 mdpl) terletak di kawasan Taman Nasional Gunung Leuser yang kaya akan keanekaragaman hayati flora fauna.",
+      "suggestions": ["Tampilkan detail Leuser", "Konservasi alam"]
+    },
+    {
+      "id": "sinabung",
+      "keywords": ["sinabung"],
+      "response": "Gunung Sinabung di Karo, Sumatra Utara (2.460 mdpl), merupakan gunung berapi dengan tingkat aktivitas vulkanik tinggi dalam beberapa tahun terakhir.",
+      "suggestions": ["Status keamanan", "Cari gunung lain"]
+    },
+    {
+      "id": "sibayak",
+      "keywords": ["sibayak"],
+      "response": "Gunung Sibayak di Berastagi, Sumatra Utara (2.212 mdpl), populer untuk pendakian singkat melihat kawah aktif sulfur.",
+      "suggestions": ["Pendakian ramah pemula", "Cari gunung lain"]
+    },
+    {
+      "id": "tampomas",
+      "keywords": ["tampomas"],
+      "response": "Gunung Tampomas di Sumedang, Jawa Barat (1.684 mdpl), menawarkan jalur pendakian asri dan kearifan lokal setempat.",
+      "suggestions": ["Tampilkan detail Tampomas", "Cari gunung lain"]
+    },
+    {
+      "id": "halimun",
+      "keywords": ["halimun", "salak"],
+      "response": "Kawasan Pegunungan Halimun Salak di perbatasan Bogor-Sukabumi memiliki ekosistem hutan hujan tropis pegunungan yang sangat lebat.",
+      "suggestions": ["Tampilkan detail Halimun", "Tips menjaga alam"]
+    },
+    {
+      "id": "lawu",
+      "keywords": ["lawu", "hargo dalem"],
+      "response": "Gunung Lawu di perbatasan Jateng-Jatim (3.265 mdpl) memiliki jalur bersejarah via Cemoro Sewu dan Candi Cetho serta petilasan Hargo Dalem.",
+      "suggestions": ["Tampilkan detail Lawu", "Cari gunung lain"]
+    },
+    {
+      "id": "argopuro",
+      "keywords": ["argopuro", "hyang"],
+      "response": "Gunung Argopuro di Jawa Timur (3.088 mdpl) memiliki jalur terpanjang di Pulau Jawa dengan suasana sabana Cikasur yang legendaris.",
+      "suggestions": ["Tampilkan detail Argopuro", "Cari gunung lain"]
+    },
+    {
+      "id": "raung",
+      "keywords": ["raung"],
+      "response": "Gunung Raung di Jawa Timur (3.332 mdpl) terkenal dengan kaldera kering raksasa dan jalur punggungan ekstrem menuju Puncak Sejati.",
+      "suggestions": ["Tampilkan detail Raung", "Cari gunung lain"]
+    },
+    {
+      "id": "bukit_raya",
+      "keywords": ["bukit raya", "raya"],
+      "response": "Bukit Raya di perbatasan Kalbar-Kalteng (2.278 mdpl) adalah salah satu dari daftar Seven Summits Indonesia di Pulau Kalimantan.",
+      "suggestions": ["Tampilkan detail Bukit Raya", "Cari gunung lain"]
+    },
+    {
+      "id": "binaiya",
+      "keywords": ["binaiya", "binaiya maluku"],
+      "response": "Gunung Binaiya di Pulau Seram, Maluku (3.027 mdpl), terkenal dengan lintasan ekosistem hutan dataran rendah hingga hutan alpin.",
+      "suggestions": ["Tampilkan detail Binaiya", "Cari gunung lain"]
+    },
+    {
+      "id": "mutis",
+      "keywords": ["mutis", "gunung mutis"],
+      "response": "Gunung Mutis di Timor, NTT (2.427 mdpl), terkenal dengan formasi hutan ampupu purba dan lanskap sabana khas Timor.",
+      "suggestions": ["Tampilkan detail Mutis", "Cari gunung lain"]
+    },
+    {
+      "id": "klabat",
+      "keywords": ["klabat", "gunung klabat"],
+      "response": "Gunung Klabat di Minahasa Utara, Sulawesi Utara (1.995 mdpl), merupakan gunung tertinggi di provinsi tersebut.",
+      "suggestions": ["Tampilkan detail Klabat", "Cari gunung lain"]
+    },
+    {
+      "id": "lokon",
+      "keywords": ["lokon"],
+      "response": "Gunung Lokon di Tomohon, Sulawesi Utara (1.580 mdpl), merupakan salah satu stratovolkano aktif di Tanah Minahasa.",
+      "suggestions": ["Status keamanan", "Cari gunung lain"]
+    },
+    {
+      "id": "mawu",
+      "keywords": ["kelimutu", "mawu"],
+      "response": "Gunung Kelimutu di Ende, Flores, NTT (1.639 mdpl), terkenal dengan Danau Tiga Warna (Puu Ata Mbupu, Nuwa Muri Koo Fai, Tiwu Ata Polo).",
+      "suggestions": ["Tampilkan detail Kelimutu", "Cari gunung lain"]
+    },
+    {
+      "id": "inerie",
+      "keywords": ["inerie"],
+      "response": "Gunung Inerie di Bajawa, Flores, NTT (2.245 mdpl), memiliki bentuk kerucut piramida vulkanik yang sangat simetris dan ikonik.",
+      "suggestions": ["Tampilkan detail Inerie", "Cari gunung lain"]
+    },
+    {
+      "id": "gear_basic",
+      "keywords": ["perlengkapan", "alat", "persiapan", "logistik", "bawa apa"],
+      "response": "Persiapan dasar meliputi: pakaian lapis (layering), jaket windproof/waterproof, sepatu hiking, tenda, sleeping bag, P3K, headlamp, air, dan trash bag.",
+      "suggestions": ["Tips menjaga alam", "Pendakian pemula"]
+    },
+    {
+      "id": "conservation",
+      "keywords": ["sampah", "konservasi", "menjaga", "alam", "etika", "lestari"],
+      "response": "Prinsip Leave No Trace: tetap di jalur resmi, bawa kembali sampah pribadi, jangan merusak flora fauna, serta hormati adat istiadat lokal.",
+      "suggestions": ["Buka checklist etika", "Cari destinasi"]
+    },
+    {
+      "id": "safety",
+      "keywords": ["aman", "status", "siaga", "erupsi", "bahaya", "pvmbg"],
+      "response": "NUSA adalah media pengenalan independen. Untuk keselamatan riil, selalu pantau informasi resmi MAGMA Indonesia / PVMBG dan izin pengelola setempat.",
+      "suggestions": ["Buka sumber resmi", "Cari gunung lain"]
+    },
+    {
+      "id": "beginner",
+      "keywords": ["pemula", "mudah", "ringan", "gunung pemula"],
+      "response": "Rekomendasi pemula: Gunung Prau, Gunung Andong, Bukit Moko, atau Gunung Papandayan. Lakukan pemanasan fisik rutin minimal 2 minggu sebelumnya.",
+      "suggestions": ["Perlengkapan pendakian", "Tips menjaga alam"]
+    }
+  ],
+  "fallback": {
+    "response": "Saya belum menemukan jawaban spesifik untuk kata kunci tersebut di database NUSA. Coba gunakan kata kunci lain seperti Semeru, Rinjani, Kerinci, Puncak Jaya, perlengkapan, atau etika konservasi alam. Ingat, data ini bersifat simulasi referensi.",
+    "suggestions": ["Cari gunung", "Tips menjaga alam"]
+  }
+} 
